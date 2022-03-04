@@ -1,0 +1,421 @@
+.div1{
+    margin-top: 100px;
+    margin-left: 220px;
+    display: inline-flex;
+    position: relative;   
+}
+
+div{
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    flex-wrap: wrap;
+    width: 50%;
+    margin: auto;
+    align-items: center;    
+}
+.title{
+    position: absolute;
+    left: 100px;
+    font-family: Roboto;
+    font-size: 55px;
+    
+}
+
+.box1{
+    font-family: Roboto;
+    width: 200px;
+    height: 300px;
+    border: crimson solid 1px;
+    border-radius: 20px;
+    box-shadow: 4px 4px 8px -2px grey;
+    display: block;  
+    margin-bottom: 20px;  
+}
+.underline
+{
+    font-family: Roboto;
+    color: crimson;
+    font-size: 27px;  
+}
+.strike{
+    text-align: center;
+    text-decoration-line: line-through;
+    font-size: 20px;
+    color:crimson;
+    font-family: Roboto;  
+}
+.check{
+    text-align: center;
+    font-size: 20px;
+    font-family: Roboto;
+}
+.box2{
+    display: block;
+    width: 200px;
+    height: 300px;
+    font-family: Roboto;
+    border:crimson solid 1px;
+    border-radius: 20px;
+    box-shadow: 4px 4px 8px -2px grey;
+    margin-bottom: 20px;  
+   
+}
+.underline2
+{
+    font-family: Roboto;
+    color: crimson;
+    font-size: 27px;   
+}
+.strike2{
+    text-align: center;
+    text-decoration-line: line-through;
+    font-size: 20px;
+    color:crimson;
+    font-family: Roboto;   
+}
+.check2{
+    text-align: center;
+    font-size: 20px;
+    font-family: Roboto;    
+}
+.box3{
+    display: block;
+    width: 200px;
+    height: 300px;
+    font-family: Roboto;
+    border:crimson solid 1px;
+    border-radius: 20px;
+    box-shadow: 4px 4px 8px -2px grey;   
+    margin-bottom: 20px;  
+ 
+}
+.underline3
+{
+    color: crimson;
+    font-size: 27px;
+    font-family: Roboto;
+}
+.strike3{
+    text-align: center;
+    text-decoration-line: line-through;
+    font-size: 20px;
+    color:crimson;
+    font-family: Roboto;    
+}
+.check3{
+    text-align: center;
+    font-size: 20px;
+    font-family: Roboto;   
+}
+h1{
+    position: absolute;
+    right: -120px;
+    margin-top: 40px;
+    font-family: Roboto;
+    font-weight: 200;
+}
+
+i{
+   position: absolute;
+   right: 10px;
+   margin-top: 20px;
+    color: crimson;
+}
+
+.box4{
+    visibility: hidden;
+    display: block;
+    width: 200px;
+    height: 300px;
+    font-family: Roboto;
+    border:crimson solid 1px;
+    border-radius: 20px;
+    box-shadow: 4px 4px 8px -2px grey;   
+    margin-bottom: 20px;  
+ 
+}
+.underline4
+{
+    color: crimson;
+    font-size: 27px;
+    font-family: Roboto;
+}
+.strike4{
+    text-align: center;
+    text-decoration-line: line-through;
+    font-size: 20px;
+    color:crimson;
+    font-family: Roboto;    
+}
+
+.box5{
+    visibility: hidden;
+    display: block;
+    width: 200px;
+    height: 300px;
+    font-family: Roboto;
+    border:crimson solid 1px;
+    border-radius: 20px;
+    box-shadow: 4px 4px 8px -2px grey;   
+    margin-bottom: 20px;  
+ 
+}
+.underline5
+{
+    color: crimson;
+    font-size: 27px;
+    font-family: Roboto;
+}
+.strike5{
+    text-align: center;
+    text-decoration-line: line-through;
+    font-size: 20px;
+    color:crimson;
+    font-family: Roboto;    
+}
+.check5{
+    text-align: center;
+    font-size: 20px;
+    font-family: Roboto;   
+}
+
+.box6{
+    visibility: hidden;
+    display: block;
+    width: 200px;
+    height: 300px;
+    font-family: Roboto;
+    border:crimson solid 1px;
+    border-radius: 20px;
+    box-shadow: 4px 4px 8px -2px grey;   
+    margin-bottom: 20px;  
+ 
+}
+.underline6
+{
+    color: crimson;
+    font-size: 27px;
+    font-family: Roboto;
+}
+.strike6{
+    text-align: center;
+    text-decoration-line: line-through;
+    font-size: 20px;
+    color:crimson;
+    font-family: Roboto;    
+}
+.check6{
+    text-align: center;
+    font-size: 20px;
+    font-family: Roboto;   
+}
+
+@media (min-width:320px) and (max-width: 480px){
+    .div1{
+        margin-top: 5px;
+        margin-left: 0px;
+    }
+    .title 
+    {
+      font-size: 45px;
+      left: 80px;
+      top: 20px;  
+    }
+
+    h1{
+        display: none;
+    }
+
+    i{
+        right: -150px;
+        top: 17px;
+    }
+
+    div{
+        flex-direction: column;
+        margin: auto;
+    }
+
+    .box1{
+        width: 300px;
+        height: 70px;
+        border-radius: 10px;
+        position: relative;
+        margin-bottom: 13px;
+    }
+    
+
+   .underline{
+       position: absolute;
+       margin-top: -10px;
+       margin-left: 70px;
+   }
+    .strike{
+        display: none;
+    }
+
+    .check{
+        display: none;
+    }
+
+    hr{
+        display: none;
+    }
+
+    .box2{
+        width: 300px;
+        height: 70px;
+        border-radius: 10px;
+        position: relative;
+        margin-bottom: 13px;
+    }
+    
+
+   .underline2{
+       position: absolute;
+       margin-top: -10px;
+       margin-left: 70px;
+   }
+    .strike2{
+        display: none;
+    }
+
+    .check2{
+        display: none;
+    }
+
+    .box3{
+        width: 300px;
+        height: 70px;
+        border-radius: 10px;
+        position: relative;
+        margin-bottom: 13px;
+    }
+    
+
+   .underline3{
+       position: absolute;
+       margin-top: -10px;
+       margin-left: 70px;
+   }
+    .strike3{
+        display: none;
+    }
+
+    .check3{
+        display: none;
+    }
+
+    .box4{
+        visibility: visible;
+        width: 300px;
+        height: 70px;
+        border-radius: 10px;
+        position: relative;
+        margin-bottom: 13px;
+    }
+    
+
+   .underline4{
+       position: absolute;
+       margin-top: -10px;
+       margin-left: 70px;
+   }
+    .strike4{
+        display: none;
+    }
+
+    .check4{
+        display: none;
+    }
+
+    .box5{
+        visibility: visible;
+        width: 300px;
+        height: 70px;
+        border-radius: 10px;
+        position: relative;
+        margin-bottom: 13px;
+    }
+    
+
+   .underline5{
+       position: absolute;
+       margin-top: -10px;
+       margin-left: 70px;
+   }
+    .strike5{
+        display: none;
+    }
+
+    .check5{
+        display: none;
+    }
+
+    .box6{
+        visibility: visible;
+        width: 300px;
+        height: 70px;
+        border-radius: 10px;
+        position: relative;
+        margin-bottom: 13px;
+    }
+    
+
+   .underline6{
+       position: absolute;
+       margin-top: -10px;
+       margin-left: 70px;
+   }
+    .strike6{
+        display: none;
+    }
+
+    .check6{
+        display: none;
+    }
+
+
+    
+}
+
+@media (min-width:481px) and (max-width: 769px)
+{
+    .title{
+        margin: -220px;
+        bottom: 300px;
+    }
+
+    h1{
+        top: -65px;
+      font-size: 40px;  
+    }
+
+    i{
+        top: -30px;
+        right: 30px;
+    }
+
+    .box1{
+        width: 700px;
+        height: 250px;
+        margin-bottom: 20px;
+    }
+
+    .box2{
+        width: 700px;
+        height: 250px;
+        margin-bottom: 20px;
+    }
+
+    .box3{
+        width: 700px;
+        height: 250px;
+        margin-bottom: 20px;
+    }
+
+    hr{
+        width: 330px;
+    }
+}
