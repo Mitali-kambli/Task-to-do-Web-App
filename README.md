@@ -9,18 +9,22 @@ in both web view as well as mobile view.
 
 -It has cross browser compatibility and responsive web design.
 
-![Screenshot (77)](https://user-images.githubusercontent.com/68725674/156712987-26a6ac02-7874-4862-8e2c-2be32a330c89.png)
+WEB VIEW:
 
-![Screenshot (78)](https://user-images.githubusercontent.com/68725674/156713060-e510e995-5044-4b21-a04b-6ba80e7fa2eb.png)
+![task](https://user-images.githubusercontent.com/68725674/157603204-6dcb669d-303a-4961-bdf2-dd34873b253d.jpg)
 
-![Screenshot (79)](https://user-images.githubusercontent.com/68725674/156713151-ccfcc2b6-e35a-485c-833f-a4920a085511.png)
+![newlist](https://user-images.githubusercontent.com/68725674/157603303-bdb159cc-e7a0-41fc-9563-450d9fbdba63.jpg)
 
-![Screenshot (80)](https://user-images.githubusercontent.com/68725674/156713199-b3859c77-3850-43e7-aae8-87702fc9deff.png)
+![trip](https://user-images.githubusercontent.com/68725674/157603361-82754377-be4c-465c-ace0-d741c5522cdc.jpg)
 
-![Screenshot (81)](https://user-images.githubusercontent.com/68725674/156713245-07036c6e-bc14-439b-96fe-6d1645ec866a.png)
+![dfgh](https://user-images.githubusercontent.com/68725674/157603389-4dac122a-3e02-4f67-ab5f-4c123eafd49c.jpg)
 
-![Screenshot (82)](https://user-images.githubusercontent.com/68725674/156713284-5ad5b0a5-acb9-48b8-a0c6-f5fd51cce429.png)
+MOBILE VIEW:
 
-![Screenshot (83)](https://user-images.githubusercontent.com/68725674/156713323-52135931-0c8b-41bb-91ab-8f550b591475.png)
+![tyui](https://user-images.githubusercontent.com/68725674/157603465-421e44f2-747c-4842-946f-3433b642fcd0.jpg)
 
-![Screenshot (84)](https://user-images.githubusercontent.com/68725674/156713374-906f74de-74dd-489c-b1d0-a3e0c283d6e0.png)
+![lisphn](https://user-images.githubusercontent.com/68725674/157603538-a1a8df8a-6967-47b8-a934-ebf7e7baa601.jpg)
+
+![trphn](https://user-images.githubusercontent.com/68725674/157603574-9730d8a9-5dc3-4ced-9a10-769b3b07f0c4.jpg)
+
+![itemphn](https://user-images.githubusercontent.com/68725674/157603603-56edeedb-a4c2-4d98-836b-5b2e8f2f0bcd.jpg)
